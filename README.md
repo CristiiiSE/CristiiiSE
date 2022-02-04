@@ -1,3 +1,3 @@
 CEO of Cristi Computer inc.
 
-Currently working on a Special Paid Watch Face for WearOS
+Trying to get my old GitHub Account back.
