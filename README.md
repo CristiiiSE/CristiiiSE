@@ -1,7 +1,7 @@
 # Hi there, I'm Cristian - aka [CristiiiSE][youtube] 👋 
 
 
-## I'm a Developer!!
+## I'm a Pyromaniac that loves Developing Apps!!
 
 - 🔭 Check out my YouTube Channel: [CristiiiSE](https://www.youtube.com/channel/UCongdDV1IliKDQ8LToL8uOg)!
 - ⚡ Fun fact: I love listening to Ashnikko!
@@ -32,4 +32,5 @@
 [twitter]: https://twitter.com/CristiiiSE
 [youtube]: https://www.youtube.com/channel/UCongdDV1IliKDQ8LToL8uOg
 [instagram]: https://instagram.com/acristian007
+
 
