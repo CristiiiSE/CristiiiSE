@@ -4,10 +4,10 @@
 ## I'm a Pyromaniac that loves Developing Apps!!
 
 - 🔭 Check out my YouTube Channel: [CristiiiSE](https://www.youtube.com/channel/UCongdDV1IliKDQ8LToL8uOg)!
-- ⚡ Fun fact: I love listening to Ashnikko!
-- 🌱 I’m currently learning Ruby 💎
-- 👯 I’m looking to create a Mesh Wi-Fi Setup for Great Wi-Fi Performance in the house!
-- 🥅 2022 Goals: Learn more about Homebrewing my Smart Fridge!
+- ⚡ Ashnikko's music is just perfect for programming.
+- 💎 I’m currently learning Ruby.
+- 🐕 Bella the Doggo as the Software Designer! 🤣
+- 🥅 Trying to make iOS apps on a Windows Machine!
 
 
 ### Languages:
