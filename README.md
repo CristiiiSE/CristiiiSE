@@ -1,14 +1,12 @@
 # Hi there, I'm Cristian - aka [CristiiiSE][youtube] 👋 
 
-
 ## I'm a Pyromaniac that loves Developing Apps!!
 
-- 🔭 Check out my YouTube Channel: [CristiiiSE](https://www.youtube.com/channel/UCongdDV1IliKDQ8LToL8uOg)!
-- ⚡ Ashnikko's music is just perfect for programming.
-- 💎 I’m currently learning Ruby.
-- 🐕 Bella the Doggo as the Software Designer! 🤣
-- 🥅 Trying to make iOS apps on a Windows Machine!
-
+- 🔭 Check out my YouTube Channel: [CristiiiSE](https://www.youtube.com/channel/UCongdDV1IliKDQ8LToL8uOg)
+- 💎 Ashnikko's music is just perfect for programming.
+- ⚡ I’m currently learning Ruby.
+- 🐕 Bella the Doggo as the Software Designer!
+- 🐟 Trying to make iOS apps on a Windows Machine!
 
 ### Languages:
 
