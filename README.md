@@ -9,6 +9,9 @@
 - 👯 I’m looking to create a Mesh Wi-Fi Setup for Great Wi-Fi Performance in the house!
 - 🥅 2022 Goals: Learn more about Homebrewing my Smart Fridge!
 
+<a href="https://discord.gg/mWCFTSzC"><img width="170px" src="https://i.ibb.co/BZMPyJd/keke.png" alt="Discord"/></a>
+
+
 
 ### Languages:
 
@@ -28,9 +31,17 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <br />
 
+
+
+
+
+
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/CristiiiSE
 [youtube]: https://www.youtube.com/channel/UCongdDV1IliKDQ8LToL8uOg
 [instagram]: https://instagram.com/acristian007
+
+
+
 
 
