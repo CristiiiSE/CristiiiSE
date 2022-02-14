@@ -1,4 +1,4 @@
-# Hi there, I'm Cristian - aka [CristiiiSE][youtube] 👋 
+# Hi there, I'm Cristian - aka [CristiiiSE][youtube] 💎👑 
 
 ## I'm a Pyromaniac that loves Developing Apps!!
 
