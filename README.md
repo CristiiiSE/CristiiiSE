@@ -9,7 +9,6 @@
 - 👯 I’m looking to create a Mesh Wi-Fi Setup for Great Wi-Fi Performance in the house!
 - 🥅 2022 Goals: Learn more about Homebrewing my Smart Fridge!
 
-<a href="https://discord.gg/mWCFTSzC"><img width="170px" src="https://i.ibb.co/BZMPyJd/keke.png" alt="Discord"/></a>
 
 ### Languages:
 
@@ -31,13 +30,11 @@
 
 #### Socials:
 
-<a href="https://www.youtube.com/channel/UCongdDV1IliKDQ8LToL8uOg"><img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="Discord"/></a>
-
+<a href="https://www.youtube.com/channel/UCongdDV1IliKDQ8LToL8uOg"><img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="YouTube"/></a>
+<a href="https://twitter.com/CristiiiSE"><img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" alt="Twitter"/></a>
+<a href="https://instagram.com/acristian007"><img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram"/></a>
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/CristiiiSE
 [youtube]: https://www.youtube.com/channel/UCongdDV1IliKDQ8LToL8uOg
 [instagram]: https://instagram.com/acristian007
-
-
-
