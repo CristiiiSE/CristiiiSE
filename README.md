@@ -41,12 +41,17 @@
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Debian" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/debian/debian-original.svg" style="padding-right:10px;" />
 
-
-
-
 <br />
 
+### Design Tools:
 
+<img align="left" alt="Adobe Photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
+<img align="left" alt="Adobe XD" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/xd/xd-line.svg" style="padding-right:10px;" />
+<img align="left" alt="Adobe Illustrator" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" />
+<img align="left" alt="Adobe AfterEfects" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/aftereffects/aftereffects-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Adobe Premiere Pro" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/premierepro/premierepro-original.svg" style="padding-right:10px;" />
+
+<br />
 
 #### Socials:
 
