@@ -1,4 +1,4 @@
-# Hi there, I'm Cristian - AKA [CristiiiSE][youtube] 💎👑 
+# Salutare toata lumea eu sunt Cristinel - AKA [CristiiiSE][youtube] 💎👑 
 
 ## Cristi Aristocratu Matrimonial
 
@@ -61,5 +61,7 @@
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/CristiiiSE
-[youtube]: https://www.youtube.com/channel/UCongdDV1IliKDQ8LToL8uOg
+[youtube]: https://www.youtube.com/channel/UCongdDV1IliKDQ8LToL8uOg![SPRK_default_preset_name_custom – 1]
 [instagram]: https://instagram.com/acristian007
+
+(https://user-images.githubusercontent.com/98966871/160130041-88e78a60-3c49-4d73-abab-91f9aeecff58.png)
