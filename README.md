@@ -1,6 +1,6 @@
 # Hi there, I'm Cristian - AKA [CristiiiSE][youtube] 💎👑 
 
-## I'm a Pyromaniac that loves Developing Apps!!
+## Cristi Aristocratu Matrimonial
 
 - 🔭 Check out my YouTube Channel: [CristiiiSE](https://www.youtube.com/channel/UCongdDV1IliKDQ8LToL8uOg)
 - 💎 Ashnikko's music is just perfect for programming.
