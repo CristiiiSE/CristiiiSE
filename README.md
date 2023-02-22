@@ -1,6 +1,6 @@
 # Salutare toata lumea eu sunt Cristinel - AKA [CristiiiSE][youtube] 💎👑 
 
-## Cristi Aristocratul Matrimonial
+## Aristocratul
 
 - 🔭 Check out my YouTube Channel: [CristiiiSE](https://www.youtube.com/channel/UCongdDV1IliKDQ8LToL8uOg)
 - 💎 Ashnikko's music is just perfect for programming.
