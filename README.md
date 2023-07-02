@@ -5,6 +5,9 @@
 Cristian is a versatile and accomplished software engineer, educator, and open-source advocate who has made a significant impact in the world of technology. His contributions to the developer community, through his writing, video content, and mentoring, have earned him a well-deserved reputation as a leader in his field.
 
 
+![browser-vscode](https://github.com/CristiiiSE/CristiiiSE/blob/f4ecf21cf2fac0411925f678d6d6bb6faa1d9426/readmebanner.png)
+
+
 <div align="center">
 
 [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -71,7 +74,6 @@ My Current Workstation Specification </h2>
 
 <div align="center">
 	
-
 ![LAPTOP](https://img.shields.io/badge/Windows-ASUS_Vivobook_15-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br> 
 	
@@ -80,12 +82,6 @@ My Current Workstation Specification </h2>
 
 ![GPU](https://img.shields.io/badge/NVIDIA-MX330-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
 <br>
-
-![GPU](https://img.shields.io/badge/NVIDIA-MX330-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
-<br>
-
-
-
 
 </div>
 
