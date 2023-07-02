@@ -5,7 +5,7 @@
 Cristian is a versatile and accomplished software engineer, educator, and open-source advocate who has made a significant impact in the world of technology. His contributions to the developer community, through his writing, video content, and mentoring, have earned him a well-deserved reputation as a leader in his field.
 
 
-![browser-vscode](https://github.com/CristiiiSE/CristiiiSE/blob/f4ecf21cf2fac0411925f678d6d6bb6faa1d9426/readmebanner.png)
+![browser-vscode](https://github.com/CristiiiSE/CristiiiSE/blob/f4ecf21cf2fac0411925f678d6d6bb6faa1d9426/banner.png)
 
 
 <div align="center">
