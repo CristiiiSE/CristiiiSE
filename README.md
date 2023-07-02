@@ -1,6 +1,6 @@
 [![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/CristiiiSE/CristiiiSE)
 
-     # Hello, everyone! <img src="./img/wave.gif" width="35px" height= "35px">
+# Hello, everyone! <img src="./img/wave.gif" width="35px" height= "35px">
 
 Cristian is a versatile and accomplished software engineer, educator, and open-source advocate who has made a significant impact in the world of technology. His contributions to the developer community, through his writing, video content, and mentoring, have earned him a well-deserved reputation as a leader in his field.
 
