@@ -4,7 +4,7 @@
 
 Cristian is a versatile and accomplished software engineer, educator, and open-source advocate who has made a significant impact in the world of technology. His contributions to the developer community, through his writing, video content, and mentoring, have earned him a well-deserved reputation as a leader in his field.
 
-# Cristi Media Group <img src="https://cdn-icons-png.flaticon.com/512/732/732208.png?w=826&t=st=1688289252~exp=1688289852~hmac=a13c4f1a77695a20eddcfa112d4d2be3b5c227d9b7e966e3457f60aa9358e69d" width="30px" height= "30px">
+# Cristi Media Group <img href="https://www.example.com" src="https://cdn-icons-png.flaticon.com/512/732/732208.png?w=826&t=st=1688289252~exp=1688289852~hmac=a13c4f1a77695a20eddcfa112d4d2be3b5c227d9b7e966e3457f60aa9358e69d" width="30px" height= "30px">
 
 ![browser-vscode](https://github.com/CristiiiSE/CristiiiSE/blob/787979b21b67cbdfc6e2e7bef7a152941f65caff/banner.png)
 
@@ -20,9 +20,9 @@ Cristian is a versatile and accomplished software engineer, educator, and open-s
 <h2 align="center">
 Technologies and Languages </h2>
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)
+![Windows](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
