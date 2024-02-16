@@ -2,7 +2,7 @@
 
 # Hello, everyone! <img src="./img/wave.gif" width="35px" height= "35px">
 
-Cristian is a versatile and accomplished software engineer, educator, and open-source advocate who has made a significant impact in the world of technology. His contributions to the developer community, through his writing, video content, and mentoring, have earned him a well-deserved reputation as a leader in his field.
+Cristian is a versatile and accomplished app developer, educator, and open-source advocate who has made a significant impact in the world of technology. His contributions to the developer community, through his writing, video content, and mentoring, have earned him a well-deserved reputation as a leader in his field.
 
 # Cristi Media Group <a href="https://play.google.com/store/apps/dev?id=8878387422416409889"> <img src="https://cdn-icons-png.flaticon.com/512/732/732208.png?w=826&t=st=1688289252~exp=1688289852~hmac=a13c4f1a77695a20eddcfa112d4d2be3b5c227d9b7e966e3457f60aa9358e69d" width="30px" height= "30px">
 
